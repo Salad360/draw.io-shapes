@@ -1,0 +1,9 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.firewalls.com/blog/wp-content/uploads/2020/02/FG_40F_Front_Top_small-e1581365289161.png;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"150\" height=\"50.93\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 150,
+    "h": 50.93,
+    "aspect": "fixed",
+    "title": "FortiGate 40F"
+  }
+]</mxlibrary>
