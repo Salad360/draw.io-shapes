@@ -1,0 +1,9 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.netgear.com/media/B4-gs308e_32_tcm148-140745.png;clipPath=inset(25.73% 21% 25.73% 16.33%);points=[[0.5,0.8,0,0,0],[0.57,0.76,0,0,0],[0.68,0.66,0,0,0],[0.75,0.62,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"1.8474111129762605e-13\" width=\"82.14\" height=\"43.69\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 82.14,
+    "h": 43.69,
+    "aspect": "fixed",
+    "title": "Dumb 8 port switch"
+  }
+]</mxlibrary>
